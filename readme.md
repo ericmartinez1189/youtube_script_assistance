@@ -21,7 +21,7 @@ Ensure you have Python 3.8 or later installed, along with pip for package manage
 
 1. Clone the repository to your local machine:
 
-git clone "/..."
+git clone git@github.com:ericmartinez1189/youtube_script_assistance.git
 
 2. Navigate to the cloned repository directory:
 
