@@ -92,3 +92,4 @@ toml==0.10.2
 toolz==0.12.1
 tornado==6.2
 tqdm==4.66.2
+apikey==0.2.4

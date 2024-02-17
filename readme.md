@@ -45,9 +45,6 @@ Navigate to the displayed URL in your browser to interact with the application.
 ### How It Works
 The application uses LangChain to integrate OpenAI's language models for generating video content. Users input a video topic, and the application leverages LangChain's capabilities to generate a title and script, utilizing Wikipedia for research when necessary.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Acknowledgments
 OpenAI for the GPT models.
 LangChain community for the tools and libraries facilitating AI model integration.
