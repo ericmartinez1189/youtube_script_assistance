@@ -46,6 +46,7 @@ Navigate to the displayed URL in your browser to interact with the application.
 The application uses LangChain to integrate OpenAI's language models for generating video content. Users input a video topic, and the application leverages LangChain's capabilities to generate a title and script, utilizing Wikipedia for research when necessary.
 
 ### Acknowledgments
+Youssef Hosni (github: youssefHosni) for the source of inspiration
 OpenAI for the GPT models.
 LangChain community for the tools and libraries facilitating AI model integration.
 Streamlit for the amazing framework that makes web applications accessible to data scientists.
